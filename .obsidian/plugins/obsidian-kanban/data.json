@@ -1,0 +1,19 @@
+{
+  "show-checkboxes": true,
+  "new-note-folder": "TRACKER",
+  "move-tags": true,
+  "tag-colors": [],
+  "move-dates": true,
+  "date-trigger": "@",
+  "date-format": "DD-MM-YYYY",
+  "date-display-format": "DD-MM-YYYY",
+  "link-date-to-daily-note": true,
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "days",
+      "direction": "after"
+    }
+  ]
+}

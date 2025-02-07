@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "2a64e5eedd4b2486",
+    "type": "split",
+    "children": [
+      {
+        "id": "d15d17831a687ee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b52b5db83704a2e9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "HOME/Tracker Dashboard.canvas",
+                "viewState": {
+                  "x": -4552.8134138417345,
+                  "y": -1798.6454657875656,
+                  "zoom": -0.9023247416366086
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Tracker Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20216ad2672805f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "94cfee0dbeffa29c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf7b44919a6a4317",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "df4be07a66609d20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "07ab57927accf664",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "right": {
+    "id": "739b9f830e8258f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "27d31f68010bde4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26e4eef79b7b2f97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bcced836dee7bf7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "dbd750c3cd5729a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e5cd01f5a0329a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "b52b5db83704a2e9",
+  "lastOpenFiles": [
+    "TRACKER/2025-02-07.md",
+    "TRACKER/2025-02-06.md",
+    "API vs DB + DB vs API/SELLER DASHBOARD/WIKI API CALLS.md",
+    "HOME/Tracker Dashboard.canvas",
+    "HOME/Welcome.md",
+    "HOME",
+    "API vs DB + DB vs API/SELLER DASHBOARD",
+    "API vs DB + DB vs API",
+    "TRACKER/TRACKER.md",
+    "UI TEST CASES/ORDER LIFECYCLE.md",
+    "UI TEST CASES/Additional Categories Search.md",
+    "UI TEST CASES/HOME PAGE.md",
+    "UI TEST CASES/UI TEST CASES MOCKUP.md",
+    "HOME/STAGE-1.png",
+    "HOME/STAGE-3.png",
+    "HOME/STAGE-2.png",
+    "HOME/Pasted image 20250204131517.png",
+    "TRACKER/2025-02-04.md",
+    "TRACKER/2025-02-03.md",
+    "TRACKER/2025-01-30.md",
+    "TRACKER/2025-01-29.md",
+    "TRACKER/2025-01-28.md",
+    "Untitled Kanban.md",
+    "HOME/Pasted image 20250204120932.png",
+    "Pasted image 20250204120854.png",
+    "UI TEST CASES",
+    "28-01-2025.md",
+    "HOME/PASSKEYS STUFF.md",
+    "TRACKER",
+    "Untitled.canvas",
+    "TRACKER",
+    "create a link.md"
+  ]
+}

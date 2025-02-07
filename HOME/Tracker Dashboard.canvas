@@ -5,7 +5,8 @@
 		{"id":"ef1e7ee4b7f71101","type":"file","file":"TRACKER/2025-02-03.md","x":-5560,"y":-1920,"width":360,"height":480,"color":"1"},
 		{"id":"169ba229e8dc923f","type":"file","file":"TRACKER/2025-02-04.md","x":-5180,"y":-1920,"width":360,"height":480,"color":"6"},
 		{"id":"8bd814310ec7824a","type":"file","file":"TRACKER/2025-01-28.md","x":-5560,"y":-2520,"width":360,"height":560,"color":"1"},
-		{"id":"08f0f8d0d83687cf","type":"file","file":"TRACKER/2025-02-05.md","x":-4800,"y":-1920,"width":380,"height":480,"color":"2"}
+		{"id":"08f0f8d0d83687cf","type":"file","file":"TRACKER/2025-02-06.md","x":-4800,"y":-1920,"width":380,"height":480,"color":"2"},
+		{"id":"28f197badf0d16f4","x":-4400,"y":-1920,"width":360,"height":480,"color":"4","type":"file","file":"TRACKER/2025-02-07.md"}
 	],
 	"edges":[]
 }
