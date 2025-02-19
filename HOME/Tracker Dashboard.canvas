@@ -2,12 +2,16 @@
 	"nodes":[
 		{"id":"140c29bb475c8cac","type":"file","file":"TRACKER/2025-01-29.md","x":-5180,"y":-2520,"width":360,"height":560,"color":"6"},
 		{"id":"5770f8f6de7e4edb","type":"file","file":"TRACKER/2025-01-30.md","x":-4800,"y":-2520,"width":380,"height":560,"color":"2"},
-		{"id":"ef1e7ee4b7f71101","type":"file","file":"TRACKER/2025-02-03.md","x":-5560,"y":-1920,"width":360,"height":480,"color":"1"},
-		{"id":"169ba229e8dc923f","type":"file","file":"TRACKER/2025-02-04.md","x":-5180,"y":-1920,"width":360,"height":480,"color":"6"},
 		{"id":"8bd814310ec7824a","type":"file","file":"TRACKER/2025-01-28.md","x":-5560,"y":-2520,"width":360,"height":560,"color":"1"},
-		{"id":"08f0f8d0d83687cf","type":"file","file":"TRACKER/2025-02-06.md","x":-4800,"y":-1920,"width":380,"height":480,"color":"2"},
-		{"id":"28f197badf0d16f4","type":"file","file":"TRACKER/2025-02-07.md","x":-4400,"y":-1920,"width":360,"height":480,"color":"4"},
-		{"id":"57bbcdeff478a752","x":-4020,"y":-1920,"width":340,"height":480,"type":"file","file":"TRACKER/2025-02-11.md"}
+		{"id":"08f0f8d0d83687cf","type":"file","file":"TRACKER/2025-02-06.md","x":-4800,"y":-1800,"width":380,"height":480,"color":"2"},
+		{"id":"28f197badf0d16f4","type":"file","file":"TRACKER/2025-02-07.md","x":-4400,"y":-1800,"width":360,"height":480,"color":"4"},
+		{"id":"57bbcdeff478a752","type":"file","file":"TRACKER/2025-02-11.md","x":-4020,"y":-1800,"width":360,"height":480,"color":"5"},
+		{"id":"ef1e7ee4b7f71101","type":"file","file":"TRACKER/2025-02-03.md","x":-5560,"y":-1800,"width":360,"height":480,"color":"1"},
+		{"id":"169ba229e8dc923f","type":"file","file":"TRACKER/2025-02-04.md","x":-5180,"y":-1800,"width":360,"height":480,"color":"6"},
+		{"id":"da6f40a5b43b097d","type":"file","file":"TRACKER/2025-02-19.md","x":-5180,"y":-1280,"width":360,"height":480,"color":"6"},
+		{"id":"2561c726c82a30fc","type":"file","file":"TRACKER/2025-02-12.md","x":-5560,"y":-1280,"width":360,"height":480,"color":"1"},
+		{"id":"8e450867ddfd76a1","type":"text","text":"FEBRUARY","x":-5560,"y":-1920,"width":820,"height":60},
+		{"id":"756060a436400246","type":"text","text":"JANUARY","x":-5560,"y":-2640,"width":820,"height":60}
 	],
 	"edges":[]
 }
