@@ -11,7 +11,8 @@
 		{"id":"da6f40a5b43b097d","type":"file","file":"TRACKER/2025-02-19.md","x":-5180,"y":-1280,"width":360,"height":480,"color":"6"},
 		{"id":"2561c726c82a30fc","type":"file","file":"TRACKER/2025-02-12.md","x":-5560,"y":-1280,"width":360,"height":480,"color":"1"},
 		{"id":"8e450867ddfd76a1","type":"text","text":"FEBRUARY","x":-5560,"y":-1920,"width":820,"height":60},
-		{"id":"756060a436400246","type":"text","text":"JANUARY","x":-5560,"y":-2640,"width":820,"height":60}
+		{"id":"756060a436400246","type":"text","text":"JANUARY","x":-5560,"y":-2640,"width":820,"height":60},
+		{"id":"a24639196b791a8a","x":-4800,"y":-1280,"width":380,"height":480,"color":"2","type":"file","file":"TRACKER/2025-02-20.md"}
 	],
 	"edges":[]
 }
