@@ -27,3 +27,11 @@
 | 2   | Cart Icon During Checkout                                                                    | The Cart Icon must be diabled                                                                                                                                                                                                                                                 |
 | 3   | Order not gettng abandoned                                                                   | The order must be reflected as abandoned in the db after navigating back from checkout                                                                                                                                                                                        |
 | 4   | Quantity adj                                                                                 | The quantity must not be automatically adjusted, from db (the cart item must be active but aval. quantity must be shown) + (Push notification "Cart Quantity Changed" )                                                                                                       |
+
+
+#2025-02-25
+
+| Id  | Name                        | Desc                                                                                  | Expected                                                       |
+| --- | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 1   | Reset Search Filters        | The user doesn't have a dedicated reset search filters button                         | Clear Filters button must be available near breadCrumbs (EBay) |
+| 2   | Add to cart -> buy now flow | When user clicks on add to cart, and then again clicks on buy now the quantity get x2 | The quantity must remain same as selected by user              |

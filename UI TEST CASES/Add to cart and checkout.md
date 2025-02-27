@@ -1,0 +1,1 @@
+- When user clicks on add to cart, and then again clicks on buy now the quantity get x2 but the quantity must remain same.
