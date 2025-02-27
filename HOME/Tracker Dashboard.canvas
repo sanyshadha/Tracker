@@ -12,7 +12,10 @@
 		{"id":"2561c726c82a30fc","type":"file","file":"TRACKER/2025-02-12.md","x":-5560,"y":-1280,"width":360,"height":480,"color":"1"},
 		{"id":"8e450867ddfd76a1","type":"text","text":"FEBRUARY","x":-5560,"y":-1920,"width":820,"height":60},
 		{"id":"756060a436400246","type":"text","text":"JANUARY","x":-5560,"y":-2640,"width":820,"height":60},
-		{"id":"a24639196b791a8a","x":-4800,"y":-1280,"width":380,"height":480,"color":"2","type":"file","file":"TRACKER/2025-02-20.md"}
+		{"id":"a24639196b791a8a","type":"file","file":"TRACKER/2025-02-20.md","x":-4800,"y":-1280,"width":380,"height":480,"color":"2"},
+		{"id":"1ee449c65ff5ba7e","type":"file","file":"TRACKER/2025-02-25.md","x":-4400,"y":-1280,"width":360,"height":480,"color":"4"},
+		{"id":"e99ab27c0f5a37bf","type":"file","file":"TRACKER/2025-02-26.md","x":-4020,"y":-1280,"width":360,"height":480,"color":"5"},
+		{"id":"637f19006fbef67e","x":-5560,"y":-760,"width":360,"height":400,"color":"1","type":"file","file":"TRACKER/2025-02-27.md"}
 	],
 	"edges":[]
 }
