@@ -1,0 +1,4 @@
+
+| ID  | NAME             | API vs DB                                          | DB vs API                                      | SQL QUERY                                                                                                                                                                                  |
+| --- | ---------------- | -------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Similar Products | API vs DB works only for prdct_list_id 136 and 137 | The similar parts response matches with the DB | select pl.prdct_list_id , p.title, p.prdct_id, pl.prdct_inv_id<br>from spares.product_listings pl<br>join spares.products p<br>on pl.prdct_id = p.prdct_id<br>where pl.prdct_list_id = 136 |
