@@ -35,3 +35,8 @@
 | --- | --------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | 1   | Reset Search Filters        | The user doesn't have a dedicated reset search filters button                         | Clear Filters button must be available near breadCrumbs (EBay) |
 | 2   | Add to cart -> buy now flow | When user clicks on add to cart, and then again clicks on buy now the quantity get x2 | The quantity must remain same as selected by user              |
+
+
+#2025-02-28
+1) Reset Filters status
+2) Whishlist
