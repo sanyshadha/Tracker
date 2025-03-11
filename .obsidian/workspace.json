@@ -4,27 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "d15d17831a687ee5",
+        "id": "e193ba5fca2c2982",
         "type": "tabs",
         "children": [
           {
-            "id": "b52b5db83704a2e9",
+            "id": "bd1e02396799ef23",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "HOME/Tracker Dashboard.canvas",
                 "viewState": {
-                  "x": -4552.8134138417345,
-                  "y": -1798.6454657875656,
-                  "zoom": -0.9023247416366086
+                  "x": -4757.718076337375,
+                  "y": -1037.7723668060669,
+                  "zoom": -0.17732515253642975
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Tracker Dashboard"
+            }
+          },
+          {
+            "id": "fc6349be2f5377bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TRACKER/2025-02-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-26"
+            }
+          },
+          {
+            "id": "0abdc4dcd0ff6464",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "HOME/Tracker Dashboard.canvas",
+                "viewState": {
+                  "x": -5046.4827417119595,
+                  "y": -795.7433533552356,
+                  "zoom": 0.2590826878407049
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Tracker Dashboard"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,23 +192,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b52b5db83704a2e9",
+  "active": "0abdc4dcd0ff6464",
   "lastOpenFiles": [
+    "TRACKER/TRACKER.md",
+    "TRACKER/2025-02-27.md",
+    "TRACKER/2025-02-26.md",
+    "HOME/Tracker Dashboard.canvas",
+    "TRACKER/2025-02-25.md",
+    "UI TEST CASES/UI ISSUES.md",
+    "API vs DB + DB vs API/Similar Products/Similar Products.md",
+    "UI TEST CASES/Add to cart and checkout.md",
+    "API vs DB + DB vs API/SELLER DASHBOARD/WIKI API CALLS.md",
+    "API vs DB + DB vs API/Checkout & Order/Checkout and Order.md",
+    "API vs DB + DB vs API/Similar Products",
+    "TRACKER/2025-02-20.md",
+    "TRACKER/2025-02-19.md",
+    "Untitled/desktop.ini",
+    "API vs DB + DB vs API/Checkout & Order",
+    "TRACKER/2025-02-12.md",
+    "TRACKER/2025-02-11.md",
     "TRACKER/2025-02-07.md",
     "TRACKER/2025-02-06.md",
-    "API vs DB + DB vs API/SELLER DASHBOARD/WIKI API CALLS.md",
-    "HOME/Tracker Dashboard.canvas",
     "HOME/Welcome.md",
     "HOME",
     "API vs DB + DB vs API/SELLER DASHBOARD",
     "API vs DB + DB vs API",
-    "TRACKER/TRACKER.md",
     "UI TEST CASES/ORDER LIFECYCLE.md",
     "UI TEST CASES/Additional Categories Search.md",
-    "UI TEST CASES/HOME PAGE.md",
     "UI TEST CASES/UI TEST CASES MOCKUP.md",
     "HOME/STAGE-1.png",
     "HOME/STAGE-3.png",
@@ -192,10 +238,8 @@
     "Pasted image 20250204120854.png",
     "UI TEST CASES",
     "28-01-2025.md",
-    "HOME/PASSKEYS STUFF.md",
     "TRACKER",
     "Untitled.canvas",
-    "TRACKER",
-    "create a link.md"
+    "TRACKER"
   ]
 }
