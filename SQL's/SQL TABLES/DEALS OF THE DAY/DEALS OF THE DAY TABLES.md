@@ -1,0 +1,4 @@
+discounts d
+product_listings pl
+productinventory p
+product_listing_prices
