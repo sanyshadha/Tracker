@@ -8,51 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd1e02396799ef23",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "HOME/Tracker Dashboard.canvas",
-                "viewState": {
-                  "x": -4757.718076337375,
-                  "y": -1037.7723668060669,
-                  "zoom": -0.17732515253642975
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Tracker Dashboard"
-            }
-          },
-          {
-            "id": "fc6349be2f5377bd",
+            "id": "d0a8f6d9d78893be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TRACKER/2025-02-26.md",
+                "file": "SQL's/WAREHOUSE API/Get warehouse by warehouse id.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-26"
+              "title": "Get warehouse by warehouse id"
             }
           },
           {
-            "id": "0abdc4dcd0ff6464",
+            "id": "fd7c50ee818f0ddb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "HOME/Tracker Dashboard.canvas",
-                "viewState": {
-                  "x": -5046.4827417119595,
-                  "y": -795.7433533552356,
-                  "zoom": 0.2590826878407049
-                }
+                "file": "UI TEST CASES/UI ISSUES.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Tracker Dashboard"
+              "icon": "lucide-file",
+              "title": "UI ISSUES"
+            }
+          },
+          {
+            "id": "5cd4e4ae5ccae347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UI TEST CASES/UI ISSUES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UI ISSUES"
+            }
+          },
+          {
+            "id": "016cf276c0aaa375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME/THE SHOW.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "THE SHOW"
             }
           }
         ],
@@ -196,50 +204,50 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0abdc4dcd0ff6464",
+  "active": "5cd4e4ae5ccae347",
   "lastOpenFiles": [
-    "TRACKER/TRACKER.md",
-    "TRACKER/2025-02-27.md",
-    "TRACKER/2025-02-26.md",
     "HOME/Tracker Dashboard.canvas",
-    "TRACKER/2025-02-25.md",
+    "TRACKER/TRACKER.md",
+    "TRACKER/2025-03-24.md",
     "UI TEST CASES/UI ISSUES.md",
-    "API vs DB + DB vs API/Similar Products/Similar Products.md",
     "UI TEST CASES/Add to cart and checkout.md",
-    "API vs DB + DB vs API/SELLER DASHBOARD/WIKI API CALLS.md",
-    "API vs DB + DB vs API/Checkout & Order/Checkout and Order.md",
-    "API vs DB + DB vs API/Similar Products",
-    "TRACKER/2025-02-20.md",
-    "TRACKER/2025-02-19.md",
-    "Untitled/desktop.ini",
-    "API vs DB + DB vs API/Checkout & Order",
-    "TRACKER/2025-02-12.md",
-    "TRACKER/2025-02-11.md",
-    "TRACKER/2025-02-07.md",
-    "TRACKER/2025-02-06.md",
-    "HOME/Welcome.md",
-    "HOME",
-    "API vs DB + DB vs API/SELLER DASHBOARD",
-    "API vs DB + DB vs API",
-    "UI TEST CASES/ORDER LIFECYCLE.md",
-    "UI TEST CASES/Additional Categories Search.md",
-    "UI TEST CASES/UI TEST CASES MOCKUP.md",
+    "SQL's/SQL TABLES/WAREHOUSE MANAGEMENT/WAREHOUSE MANAGEMENT TABLES.md",
+    "SQL's/SQL TABLES/SIMILAR PRODUCTS/SIMILAR PRODUCTS TABLES.md",
+    "SQL's/SQL TABLES/SELLER DASHBOARD/SELLER DASHBOARD TABLES.md",
+    "SQL's/SQL TABLES/PRODUCT INVENTORY AND LISTING/PRODUCT INVENTORY AND LISTING  TABLE.md",
+    "SQL's/SQL TABLES/GARAGE MANAGEMENT/GARAGE MANAGEMENT TABLES.md",
+    "SQL's/SQL TABLES/FEEDBACK/FEEDBACK TABLES.md",
+    "SQL's/SQL TABLES/DEALS OF THE DAY/DEALS OF THE DAY TABLES.md",
+    "SQL's/SQL TABLES/CART MANAGEMENT/CART MANAGEMENT TABLES.md",
+    "SQL's/SQL TABLES/BUYER DASHBOARD/BUYER DASHBOARD TABLE.md",
+    "SQL's/SQL TABLES/BROWSING AND SEARCHING/BROWSING AND SEARCHING TABLES.md",
+    "TRACKER/2025-03-20.md",
+    "SQL's/WAREHOUSE API/Get warehouse by warehouse id.md",
+    "SQL's/WAREHOUSE API/Get all active warehouses by seller id.md",
+    "TRACKER/2025-03-18.md",
+    "TRACKER/2025-03-17.md",
+    "HOME/THE SHOW.md",
+    "SQL's/FEEDBACK API/Feedback from buyer on a product.md",
+    "SQL's/SQL TABLES/SQL TABLES MOC.md",
+    "API vs DB + DB vs API/API vs DB and DB vs API MOC.md",
+    "SQL's/SQL TABLES/SIMILAR PRODUCTS",
+    "Product Inventory and Listings.md",
+    "SQL's/SQL TABLES/WAREHOUSE MANAGEMENT",
+    "SQL's/SQL TABLES/DEALS OF THE DAY",
+    "SQL's/SQL TABLES/FEEDBACK",
+    "SQL's/SQL TABLES/SELLER DASHBOARD",
+    "SQL's/SQL TABLES/BUYER DASHBOARD",
+    "SQL's/SQL TABLES/GARAGE MANAGEMENT",
+    "SQL's/SQL TABLES/BROWSING AND SEARCHING",
+    "SQL's/SQL TABLES/CART MANAGEMENT",
+    "TRACKER/Creating Inventory.md",
+    "Excalidraw",
     "HOME/STAGE-1.png",
     "HOME/STAGE-3.png",
     "HOME/STAGE-2.png",
     "HOME/Pasted image 20250204131517.png",
-    "TRACKER/2025-02-04.md",
-    "TRACKER/2025-02-03.md",
-    "TRACKER/2025-01-30.md",
-    "TRACKER/2025-01-29.md",
-    "TRACKER/2025-01-28.md",
-    "Untitled Kanban.md",
     "HOME/Pasted image 20250204120932.png",
     "Pasted image 20250204120854.png",
-    "UI TEST CASES",
-    "28-01-2025.md",
-    "TRACKER",
-    "Untitled.canvas",
-    "TRACKER"
+    "Untitled.canvas"
   ]
 }
