@@ -40,3 +40,11 @@
 #2025-02-28
 1) Reset Filters status
 2) Whishlist
+
+
+
+--------
+
+1) The logout button must redirect to spares page, but is redirecting to the G2 portal
+2) The session expired message / pop-up is not being displayed
+3) The back button must be disabled after a successful payment completion
